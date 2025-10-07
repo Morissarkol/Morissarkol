@@ -1,6 +1,6 @@
 <!-- ![Morissarkol](img/github-header-banner.png) -->
 # Hi, I'm Moris 👋
--------------------------------------------------------------------------
+________________________________________________________________________
 <!--
 **Morissarkol/Morissarkol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
