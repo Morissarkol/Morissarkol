@@ -25,6 +25,11 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,javascript,kotlin,laravel,flutter,javaFx,&theme=dark)](https://skillicons.dev)
 
-##### My Github Stat
+
+<details>
+
+<summary> Github Stats 👌</summary>
 
 ![Moris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moris&hide=contribs,prs&show_icons=true&theme=shadow_blue)
+
+</details>
