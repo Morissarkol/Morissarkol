@@ -1,5 +1,6 @@
-![Morissarkol](img/github-header-banner.png)
-
+<!-- ![Morissarkol](img/github-header-banner.png) -->
+# Hi, I'm Moris 👋
+-------------------------------------------------------------------------
 <!--
 **Morissarkol/Morissarkol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Hi there 👋
-
-- 🔭 I’m currently I’m currently seeking new opportunities to grow and contribute in the IT field.
+- 🔭 I’m currently seeking new opportunities to grow and contribute in the IT field.
 - 🌱 I’m currently learning **Laravel** dan **JavaFX** Framework
 - 😁😁😁😁
 
