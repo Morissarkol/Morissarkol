@@ -15,14 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there 👋
+#### Hi there 👋
 
 - 🔭 I’m currently I’m currently seeking new opportunities to grow and contribute in the IT field.
 - 🌱 I’m currently learning **Laravel** dan **JavaFX** Framework
 - 😁😁😁😁
 
-#### Skill
+##### Skill
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,javascript,kotlin,laravel,flutter,javaFx,&theme=dark)](https://skillicons.dev)
 
+##### My Github Stat
 
+![Moris's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moris&hide=contribs,prs&show_icons=true&theme=shadow_blue)
