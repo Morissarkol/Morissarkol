@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 #### Skill
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,javascript,kotlin,laravel,flutter,javaFx,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,javascript,kotlin,laravel,flutter,javaFx,&theme=dark)](https://skillicons.dev)
 
 
